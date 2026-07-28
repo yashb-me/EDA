@@ -1,0 +1,21 @@
+Restaurant_ID,Name,City,State,Country,Zip_Code,Latitude,Longitude,Alcohol_Service,Smoking_Allowed,Price,Franchise,Area,Parking
+132560,Puesto de Gorditas,Ciudad Victoria,Tamaulipas,Mexico,,23.752304,-99.166913,,Yes,Low,No,Open,Public
+132561,Cafe Ambar,Ciudad Victoria,Tamaulipas,Mexico,,23.726819,-99.126506,,No,Low,No,Closed,
+132564,Church's,Ciudad Victoria,Tamaulipas,Mexico,,23.730925,-99.145185,,No,Low,No,Closed,
+132572,Cafe Chaires,San Luis Potosi,San Luis Potosi,Mexico,,22.141647,-100.992712,,No,Low,No,Closed,Yes
+132583,McDonalds Centro,Cuernavaca,Morelos,Mexico,62000.0,18.922290,-99.234332,,No,Low,Yes,Closed,
+132591,Wings,Cuernavaca,Morelos,Mexico,62000.0,18.923425,-99.213225,,No,Low,No,Closed,
+132594,Wings 2,Cuernavaca,Morelos,Mexico,62000.0,18.905325,-99.165725,,No,Low,No,Closed,
+132597,Wings 3,Cuernavaca,Morelos,Mexico,62000.0,18.903325,-99.161725,,No,Low,No,Closed,
+132600,Wings 4,Cuernavaca,Morelos,Mexico,62000.0,18.901325,-99.157725,,No,Low,No,Closed,
+132603,Wings 5,Cuernavaca,Morelos,Mexico,62000.0,18.899325,-99.153725,,No,Low,No,Closed,
+132606,Wings 6,Cuernavaca,Morelos,Mexico,62000.0,18.897325,-99.149725,,No,Low,No,Closed,
+132609,Wings 7,Cuernavaca,Morelos,Mexico,62000.0,18.895325,-99.145725,,No,Low,No,Closed,
+132612,Wings 8,Cuernavaca,Morelos,Mexico,62000.0,18.893325,-99.141725,,No,Low,No,Closed,
+132615,Wings 9,Cuernavaca,Morelos,Mexico,62000.0,18.891325,-99.137725,,No,Low,No,Closed,
+132618,Wings 10,Cuernavaca,Morelos,Mexico,62000.0,18.889325,-99.133725,,No,Low,No,Closed,
+132621,Wings 11,Cuernavaca,Morelos,Mexico,62000.0,18.887325,-99.129725,,No,Low,No,Closed,
+132624,Wings 12,Cuernavaca,Morelos,Mexico,62000.0,18.885325,-99.125725,,No,Low,No,Closed,
+132627,Wings 13,Cuernavaca,Morelos,Mexico,62000.0,18.883325,-99.121725,,No,Low,No,Closed,
+132630,Wings 14,Cuernavaca,Morelos,Mexico,62000.0,18.881325,-99.117725,,No,Low,No,Closed,
+132633,Wings 15,Cuernavaca,Morelos,Mexico,62000.0,18.879325,-99.113725,,No,Low,No,Closed,
